@@ -1,6 +1,0 @@
-Gracias por tu compra, recuerda que si abres el proyecto con tu NetBeans no olvides de importar la librería (ANIMATECLASS) esto hará que lo puedas ejecutar correctamente.
-Por tu compra tienes el beneficio de acceder al código fuente de dicha librería donde se empleó para mover el JPANEL con sus debidos controles swing.
-
-VIDEO:
-https://www.youtube.com/watch?v=OnYRLPSoUtM&t
-
