@@ -285,7 +285,6 @@ public class Login extends javax.swing.JFrame {
         jLabel3.setText("Copyright WriteCode");
         jpMenu.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 490, 140, -1));
 
-        jtxtBuscar.setBackground(new java.awt.Color(255, 255, 255));
         jtxtBuscar.setFont(new java.awt.Font("Decker", 0, 18)); // NOI18N
         jtxtBuscar.setForeground(new java.awt.Color(153, 153, 153));
         jtxtBuscar.setHorizontalAlignment(javax.swing.JTextField.CENTER);
@@ -426,7 +425,6 @@ public class Login extends javax.swing.JFrame {
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/icons8_User_96px_2.png"))); // NOI18N
         jpIngreso.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 80, 90, 80));
 
-        jtxtUsuario.setBackground(new java.awt.Color(255, 255, 255));
         jtxtUsuario.setFont(new java.awt.Font("Decker", 0, 18)); // NOI18N
         jtxtUsuario.setForeground(new java.awt.Color(153, 153, 153));
         jtxtUsuario.setText("Ingrese usuario..");
@@ -438,7 +436,6 @@ public class Login extends javax.swing.JFrame {
         });
         jpIngreso.add(jtxtUsuario, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 240, 170, 40));
 
-        jpswPass.setBackground(new java.awt.Color(255, 255, 255));
         jpswPass.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         jpswPass.setForeground(new java.awt.Color(153, 153, 153));
         jpswPass.setText("Contrasena");
@@ -452,7 +449,7 @@ public class Login extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Decker", 0, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(238, 112, 82));
-        jLabel2.setText("PASSWORD:");
+        jLabel2.setText("Contraseña");
         jpIngreso.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 320, 120, -1));
 
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/icons8_Menu_32px.png"))); // NOI18N
@@ -466,7 +463,7 @@ public class Login extends javax.swing.JFrame {
 
         jLabel5.setFont(new java.awt.Font("Decker", 0, 18)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(238, 112, 82));
-        jLabel5.setText("USER:");
+        jLabel5.setText("Usuario");
         jpIngreso.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 210, 120, -1));
         jpIngreso.add(jSeparator1, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 390, 190, 20));
         jpIngreso.add(jSeparator2, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 280, 190, 20));
